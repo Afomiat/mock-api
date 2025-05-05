@@ -1,0 +1,6 @@
+[
+  { "name": "Blood Test", "status": "complete", "progress": 69 },
+  { "name": "Urine Analysis", "status": "processing", "progress": 47 },
+  { "name": "MRI Scan", "status": "complete", "progress": 91 },
+  { "name": "X-Ray", "status": "pending", "progress": 32 }
+]
