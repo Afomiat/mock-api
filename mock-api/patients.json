@@ -1,0 +1,29 @@
+[
+    {
+      "id": "P000145",
+      "fullName": "Alice Morgan",
+      "age": 34,
+      "gender": "Female",
+      "phone": "555-1234",
+      "lastVisit": "2025-05-05",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "id": "P000146",
+      "fullName": "James Taylor",
+      "age": 40,
+      "gender": "Male",
+      "phone": "555-5678",
+      "lastVisit": "2025-05-05",
+      "diagnosis": "Diabetes"
+    },
+    {
+      "id": "P000147",
+      "fullName": "Sarah Lee",
+      "age": 29,
+      "gender": "Female",
+      "phone": "555-9012",
+      "lastVisit": "2025-05-06",
+      "diagnosis": "Asthma"
+    }
+  ]

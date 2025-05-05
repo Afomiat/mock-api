@@ -1,0 +1,16 @@
+{
+    "clinic": {
+      "initials": "EC",
+      "name": "Evergreen Clinic"
+    },
+    "doctor": {
+      "firstName": "Emily",
+      "lastName": "Carter",
+      "specialization": "Cardiologist"
+    },
+    "metrics": {
+      "todaysAppointments": 6,
+      "newPatients": 5,
+      "totalPatients": 124
+    }
+  }

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "patientName": "John Doe",
+      "time": "09:30",
+      "date": "2025-05-14",
+      "day": "Friday",
+      "diagnosis": "Hypertension"
+    },
+    {
+      "id": 2,
+      "patientName": "Jane Smith",
+      "time": "11:00",
+      "date": "2025-05-05",
+      "day": "Friday",
+      "diagnosis": "Diabetes Type 2"
+    },
+    {
+      "id": 3,
+      "patientName": "Robert Johnson",
+      "time": "14:00",
+      "date": "2025-05-05",
+      "day": "Friday",
+      "diagnosis": "Coronary Artery Disease"
+    }
+  ]
