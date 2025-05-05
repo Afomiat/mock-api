@@ -1,0 +1,13 @@
+{
+  "totalPatients": 124,
+  "activePatients": 118,
+  "newThisMonth": 12,
+  "genderDistribution": {
+    "male": 45,
+    "female": 55
+  },
+  "diagnosisData": [
+    { "ageGroup": "18-30", "Diabetes": 12, "Hypertension": 8, "Asthma": 5 },
+    { "ageGroup": "31-45", "Diabetes": 18, "Hypertension": 15, "Asthma": 7 }
+  ]
+}
