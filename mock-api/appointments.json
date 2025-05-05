@@ -1,26 +1,57 @@
 [
-    {
-      "id": 1,
-      "patientName": "John Doe",
-      "time": "09:30",
-      "date": "2025-05-14",
-      "day": "Friday",
-      "diagnosis": "Hypertension"
-    },
-    {
-      "id": 2,
-      "patientName": "Jane Smith",
-      "time": "11:00",
-      "date": "2025-05-05",
-      "day": "Friday",
-      "diagnosis": "Diabetes Type 2"
-    },
-    {
-      "id": 3,
-      "patientName": "Robert Johnson",
-      "time": "14:00",
-      "date": "2025-05-05",
-      "day": "Friday",
-      "diagnosis": "Coronary Artery Disease"
-    }
-  ]
+  {
+    "id": "APT001",
+    "patientName": "Mickel Howard",
+    "date": "2023-06-15",
+    "time": "10:00 AM",
+    "gender": "Male",
+    "age": 38,
+    "treatment": "Regular checkup",
+    "status": "canceled",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=MickelHoward"
+  },
+  {
+    "id": "APT002",
+    "patientName": "Sebastian Lee",
+    "date": "2023-06-16",
+    "time": "02:30 PM",
+    "gender": "Male",
+    "age": 38,
+    "treatment": "Regular checkup",
+    "status": "pending",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=SebastianLee"
+  },
+  {
+    "id": "APT003",
+    "patientName": "Nazra Khan",
+    "date": "2023-06-17",
+    "time": "11:15 AM",
+    "gender": "Female",
+    "age": 24,
+    "treatment": "Root Cleaning",
+    "status": "completed",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=NazraKhan"
+  },
+  {
+    "id": "APT004",
+    "patientName": "Mr. Kennedy",
+    "date": "2023-06-18",
+    "time": "09:45 AM",
+    "gender": "Male",
+    "age": 48,
+    "treatment": "Teeth Removing",
+    "status": "pending",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=MrKennedy"
+  },
+  {
+    "id": "APT005",
+    "patientName": "Sarah Johnson",
+    "date": "2023-06-19",
+    "time": "03:00 PM",
+    "gender": "Female",
+    "age": 32,
+    "treatment": "Dental Filling",
+    "status": "completed",
+    "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=SarahJohnson"
+  }
+]
