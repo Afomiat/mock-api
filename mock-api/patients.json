@@ -6,7 +6,9 @@
       "gender": "Female",
       "phone": "555-1234",
       "lastVisit": "2025-05-05",
-      "diagnosis": "Hypertension"
+      "diagnosis": "Hypertension",
+            "status": "Active",
+    "bloodType": "A+"
     },
     {
       "id": "P000146",
@@ -15,7 +17,9 @@
       "gender": "Male",
       "phone": "555-5678",
       "lastVisit": "2025-05-05",
-      "diagnosis": "Diabetes"
+      "diagnosis": "Diabetes",
+            "status": "Active",
+    "bloodType": "O-"
     },
     {
       "id": "P000147",
@@ -24,6 +28,8 @@
       "gender": "Female",
       "phone": "555-9012",
       "lastVisit": "2025-05-06",
-      "diagnosis": "Asthma"
+      "diagnosis": "Asthma",
+            "status": "Active",
+    "bloodType": "O-"
     }
   ]
