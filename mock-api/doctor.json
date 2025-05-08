@@ -9,8 +9,8 @@
       "specialization": "Cardiologist"
     },
     "metrics": {
-      "todaysAppointments": 6,
-      "newPatients": 5,
+      "todaysAppointments": 66,
+      "newPatients": 55,
       "totalPatients": 124
     }
   }
